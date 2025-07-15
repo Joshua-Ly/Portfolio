@@ -43,7 +43,7 @@ export default function Home() {
           <a href="mailto:joshua@example.com" className="hover:text-blue-600">
             <Mail />
           </a>
-          <a href="https://github.com/joshly" target="_blank" className="hover:text-blue-600">
+          <a href="https://github.com/joshua-ly" target="_blank" className="hover:text-blue-600">
             <Github />
           </a>
           <a href="https://linkedin.com/in/joshly" target="_blank" className="hover:text-blue-600">
