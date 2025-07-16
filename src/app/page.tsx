@@ -48,9 +48,4 @@ export default function Home() {
           </a>
           <a href="https://linkedin.com/in/joshly" target="_blank" className="hover:text-blue-600">
             <Linkedin />
-          </a>
-        </div>
-      </section>
-    </main>
-  );
-}
+
